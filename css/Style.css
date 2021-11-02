@@ -1,0 +1,30 @@
+*{margin: 0; padding: 0;}
+
+
+.logo{
+    margin-left: 550px;
+    margin-top: 70px;
+    width: 360px;
+    height: 100px;
+}
+
+.ss1, .ss2, .ss3, .ss4{
+    width: 700px;
+    height: 450px;
+}
+.wno1{
+text-decoration: none;
+    margin-top: 100px;
+    margin-left: 500px;
+    padding-left: 0px;
+    font-weight: 20;
+    font-size: 14px;
+    text-align: center;
+    padding: 2px 10px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 25px;
+    color: #fff;
+    background-image: linear-gradient(to right,#4458dc 0%,#854fee 50%);
+}
